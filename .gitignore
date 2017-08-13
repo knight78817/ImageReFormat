@@ -1,0 +1,13 @@
+
+/ipch
+/Debug
+/Release
+/ImageReFormat/*.user
+
+/ImageReFormat/*.dll
+
+/ImageReFormat/*.lib
+
+/ImageReFormat/Release
+/ImageReFormat/Debug
+/*.sdf
